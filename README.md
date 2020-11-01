@@ -1,10 +1,7 @@
 <img src='https://www.codewars.com/users/vinjatovix/badges/large'/>
 
 # My name is Vinjatovix Imanub. You need programmers. Prepare to hire.
-"Codess brides"
-
-At the moment I am doing a bootcamp on MERN in Hack A Boss
-Here you can find some of my learning notes and exercises.
+"Codess bride"
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
@@ -12,6 +9,9 @@ Here you can find some of my learning notes and exercises.
   <a href="https://linktr.ee/vinjadevix">
     <img src="./img/logo.png" alt="Logo" width="200" height="200">
   </a>
+
+At the moment I am doing a bootcamp on MERN in Hack A Boss
+Here you can find some of my learning notes and exercises.
   <ul>
     <li>
     <a href="https://vinjatovix.github.io/jsb07co_css_homework/">CSS exercises  </a>
