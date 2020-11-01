@@ -1,6 +1,6 @@
 <img src='https://www.codewars.com/users/vinjatovix/badges/large'/>
 
-# My name is Viña, I'm a noob. You need programmers. Prepare to hire.
+# My name is Vinjatovix Imanub. You need programmers. Prepare to hire.
 "Codess brides"
 
 At the moment I am doing a bootcamp on MERN in Hack A Boss
