@@ -1,3 +1,5 @@
+<img src='https://www.codewars.com/users/vinjatovix/badges/large'/>
+
 # Welcome to my Git Hub Profile
 
 ## My name is Pablo Viña and Ima noob developer.
@@ -10,7 +12,6 @@ Here you can find some of my learning notes and exercises.
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-<img src='https://www.codewars.com/users/vinjatovix/badges/large'>
   <a href="https://linktr.ee/vinjadevix">
     <img src="./img/logo.png" alt="Logo" width="200" height="200">
   </a>
