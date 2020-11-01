@@ -10,21 +10,20 @@ Here you can find some of my learning notes and exercises.
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
+<img src='https://www.codewars.com/users/vinjatovix/badges/large'>
   <a href="https://linktr.ee/vinjadevix">
     <img src="./img/logo.png" alt="Logo" width="200" height="200">
   </a>
-
   <ul>
     <li>
     <a href="https://vinjatovix.github.io/jsb07co_css_homework/">CSS exercises  </a>
     </li>
     <li>
-    <a href="https://vinjatovix.github.io/jsb07co_js_homework/index.html">JS exercises</a>
+    <a href="https://vinjatovix.github.io/js-own_notes/">JS notes on Spanish</a>
     ·</li>
     <li>
-    <a href="https://vinjatovix.github.io/js-own_notes/"><strong>JS notes on Spanish</strong></a>
+    <a href="https://vinjatovix.github.io/jsb07co_js_homework/index.html">JS exercises</a>
     ·</li>
-    ·
   </ul>
 </p>
 
