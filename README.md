@@ -2,7 +2,6 @@
 
 ## My name is Pablo Viña and Ima noob developer.
 
-
 At the moment I am doing a bootcamp on MERN in Hack A Boss
 Here you can find some of my learning notes and exercises.
 
@@ -12,7 +11,7 @@ Here you can find some of my learning notes and exercises.
 <br />
 <p align="center">
   <a href="https://linktr.ee/vinjadevix">
-    <img src="./img/logo.png" alt="Logo" width="80" height="80">
+    <img src="./img/logo.png" alt="Logo" width="200" height="200">
   </a>
 
   <p align="center">
