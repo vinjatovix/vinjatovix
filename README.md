@@ -14,16 +14,16 @@ Here you can find some of my learning notes and exercises.
     <img src="./img/logo.png" alt="Logo" width="200" height="200">
   </a>
 
-  <p align="center">
-    <br />
-    <a href="https://vinjatovix.github.io/js-own_notes/"><strong>JS notes on Spanish</strong></a>
-    <br />
-    <br />
-    <a href="https://vinjatovix.github.io/jsb07co_js_homework/index.html">JS exercises</a>
-    ·
+  <ul align="center">
+    <li>
     <a href="https://vinjatovix.github.io/jsb07co_css_homework/">CSS exercises  </a>
+    </li>
+    <li>
+    <a href="https://vinjatovix.github.io/jsb07co_js_homework/index.html">JS exercises</a>
+    <a href="https://vinjatovix.github.io/js-own_notes/"><strong>JS notes on Spanish</strong></a>
+    ·</li>
     ·
-  </p>
+  </ul>
 </p>
 
 W1P43V3R
