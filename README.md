@@ -1,16 +1,13 @@
 <img src='https://www.codewars.com/users/vinjatovix/badges/large'/>
 
-# Welcome to my Git Hub Profile
-
-## My name is Pablo Viña and Ima noob developer.
+# My name is Viña, I'm a noob. You need programmers. Prepare to hire.
+"Codess brides"
 
 At the moment I am doing a bootcamp on MERN in Hack A Boss
 Here you can find some of my learning notes and exercises.
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-<!-- PROJECT LOGO -->
-<br />
 <p align="center">
   <a href="https://linktr.ee/vinjadevix">
     <img src="./img/logo.png" alt="Logo" width="200" height="200">
