@@ -5,7 +5,7 @@
 At the moment I am doing a bootcamp on MERN in Hack A Boss
 Here you can find some of my learning notes and exercises.
 
-
+[![LinkedIn][linkedin-shield]][linkedin-url]
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -32,3 +32,7 @@ Here you can find some of my learning notes and exercises.
 
 
 W1P43V3R
+
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/1337sound/
