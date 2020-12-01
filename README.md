@@ -6,9 +6,8 @@
 <p align="center">
   <a href="https://linktr.ee/vinjadevix">
     <img src="./img/logo.png" alt="Logo" width="200" height="200">
-  </a>
   
-<img src='https://www.codewars.com/users/vinjatovix/badges/large'/></p>
+<img src='https://www.codewars.com/users/vinjatovix/badges/large'/></a></p>
 
 <p>
 At the moment I am doing a bootcamp on MERN in Hack A Boss
