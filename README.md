@@ -1,21 +1,14 @@
 ### My name is Vinjatovix Imanub. You need programmers. Prepare to hire.
-"Codess bride"
-  
-[![LinkedIn][linkedin-shield]][linkedin-url]
+"Codess bride" [![LinkedIn][linkedin-shield]][linkedin-url]
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vinjatovix)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 <p align="center">
   <a href="https://linktr.ee/vinjadevix">
     <img src="./img/logo.png" alt="Logo" width="200" height="200">
   </a>
-  </p>
   
-
-
-
-<p align="center"><img src='https://www.codewars.com/users/vinjatovix/badges/large'/></p>
+<img src='https://www.codewars.com/users/vinjatovix/badges/large'/></p>
 
 <p>
 At the moment I am doing a bootcamp on MERN in Hack A Boss
