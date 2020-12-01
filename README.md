@@ -1,6 +1,6 @@
-<img src='https://www.codewars.com/users/vinjatovix/badges/large'/>
+<p align="center"><img src='https://www.codewars.com/users/vinjatovix/badges/large'/></p>
 
-# My name is Vinjatovix Imanub. You need programmers. Prepare to hire.
+### My name is Vinjatovix Imanub. You need programmers. Prepare to hire.
 "Codess bride"
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
