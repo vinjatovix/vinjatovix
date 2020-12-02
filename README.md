@@ -3,7 +3,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vinjatovix&count_private=true&show_icons=true&theme=merko)](https://github.com/vinjatovix/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinjatovix&layout=compact)](https://github.com/vinjatovix/github-readme-stats)
 
-<img src='https://www.codewars.com/users/vinjatovix/badges/large'/>
+
 
 
 <p align="center">
@@ -11,6 +11,7 @@
     <img src="./img/logo.png" alt="Logo" width="200" height="200">
   </a>
     </p>
+    <p><img src='https://www.codewars.com/users/vinjatovix/badges/large'/></p>
   
 
 <p>
