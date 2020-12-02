@@ -11,7 +11,9 @@
     <img src="./img/logo.png" alt="Logo" width="200" height="200">
   </a>
     </p>
-    <p align="center><img src='https://www.codewars.com/users/vinjatovix/badges/large'/></p>
+    <p align="center">
+    <img src='https://www.codewars.com/users/vinjatovix/badges/large'/>
+</p>
   
 
 <p>
