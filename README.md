@@ -21,7 +21,7 @@
 
 
 <p>
-At the moment I am doing a bootcamp on MERN in Hack A Boss
+At the moment I am doing a bootcamp on MERN.
 Here you can find some of my learning notes and exercises.
   <ul>
     <li>
