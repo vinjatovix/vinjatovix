@@ -1,11 +1,3 @@
-### My name is Vinjatovix Imanub. You need programmers. Prepare to hire.
-"Codess bride" [![LinkedIn][linkedin-shield]][linkedin-url]
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vinjatovix&count_private=true&show_icons=true&theme=merko)](https://github.com/vinjatovix/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinjatovix&layout=compact&theme=merko)](https://github.com/vinjatovix/github-readme-stats)
-
-
-
-
 <p align="center">
   <a href="https://linktr.ee/vinjadevix">
     <img src="./img/logo.png" alt="Logo" width="200" height="200">
@@ -15,6 +7,18 @@
     <img src='https://www.codewars.com/users/vinjatovix/badges/large'/>
 </p>
   
+
+
+
+
+### My name is Vinjatovix Imanub. You need programmers. Prepare to hire.
+"Codess bride" [![LinkedIn][linkedin-shield]][linkedin-url]
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vinjatovix&count_private=true&show_icons=true&theme=merko)](https://github.com/vinjatovix/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinjatovix&layout=compact&theme=merko)](https://github.com/vinjatovix/github-readme-stats)
+
+
+
+
 
 <p>
 At the moment I am doing a bootcamp on MERN in Hack A Boss
