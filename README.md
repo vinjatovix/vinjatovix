@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://linktr.ee/vinjadevix">
-    <img src="./img/logo.png" alt="Logo" width="200" height="200">
+    <img src="./img/logo.png" alt="Logo" width="400" height="400">
   </a>
     </p>
     <p align="center">
