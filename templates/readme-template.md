@@ -71,6 +71,22 @@ W1P43V3R
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vinjatovix&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=vinjatovix&redirect=true)
 
+
+[linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
+[linkedin-url]: https://www.linkedin.com/in/1337sound/
+[instagram-shield]: https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white
+[instagram-url]: https://www.instagram.com/vinjatovix/
+[spotify-shield]: https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white
+[spotify-url]: https://open.spotify.com/user/vinjatovix?si=BoXDteYjRoOLjRYuc6VMNg
+[spreaker-shield]: https://img.shields.io/badge/spreaker-000000?&style=for-the-badge&logo=spreaker&logoColor=F5C300
+[spreaker-url]: https://www.spreaker.com/user/vinjatovix
+[imdb-shield]: https://img.shields.io/badge/imdb-%230077B5.svg?&style=for-the-badge&logo=imdb&logoColor=black&color=yellow
+[imdb-url]: https://www.imdb.com/name/nm4453287/
+ [stackoverflow-url]: https://stackoverflow.com/users/13256299/vinjatovix
+[stackoverflow-shield]:  https://img.shields.io/badge/Stackoverflow-000000?&style=for-the-badge&logo=stackoverflow&logoColor=red
+ [codewars-url]: https://www.codewars.com/users/vinjatovix
+[codewars-shield]:  https://img.shields.io/badge/codewars-000000?&style=for-the-badge&logo=codewars&logoColor=red
+
 ## Recent Stargazers:
 
 <table cellspacing="0" cellpadding="0" style="border: none;">
@@ -103,18 +119,3 @@ W1P43V3R
 </table>
 
 
-
-[linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
-[linkedin-url]: https://www.linkedin.com/in/1337sound/
-[instagram-shield]: https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white
-[instagram-url]: https://www.instagram.com/vinjatovix/
-[spotify-shield]: https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white
-[spotify-url]: https://open.spotify.com/user/vinjatovix?si=BoXDteYjRoOLjRYuc6VMNg
-[spreaker-shield]: https://img.shields.io/badge/spreaker-000000?&style=for-the-badge&logo=spreaker&logoColor=F5C300
-[spreaker-url]: https://www.spreaker.com/user/vinjatovix
-[imdb-shield]: https://img.shields.io/badge/imdb-%230077B5.svg?&style=for-the-badge&logo=imdb&logoColor=black&color=yellow
-[imdb-url]: https://www.imdb.com/name/nm4453287/
- [stackoverflow-url]: https://stackoverflow.com/users/13256299/vinjatovix
-[stackoverflow-shield]:  https://img.shields.io/badge/Stackoverflow-000000?&style=for-the-badge&logo=stackoverflow&logoColor=red
- [codewars-url]: https://www.codewars.com/users/vinjatovix
-[codewars-shield]:  https://img.shields.io/badge/codewars-000000?&style=for-the-badge&logo=codewars&logoColor=red
