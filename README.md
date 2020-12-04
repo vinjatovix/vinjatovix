@@ -86,6 +86,23 @@ W1P43V3R
 
 <p><a href="https://github.com/Dineshkarthik/Dineshkarthik">Based on Dineshkarthik's work</a>, You ROX! </p>
 
+<ul>
+      <li style="list-style: none;">        <a href="https://github.com/davorpa">
+          <img
+            style="border-radius: 50%;"
+            align="center"
+            src="https://avatars2.githubusercontent.com/u/3125580?u=c2e74a0463a0902e48feab5c1859f7af2b849b5e&v=4"
+            width="100"
+            height="100"
+          />
+        </a>
+    <p><a href="https://github.com/davorpa">David Ordás</a> 
+      starred <a href="https://github.com/vinjatovix/booking-flights-app">booking-flights-app</a></p>
+    <p>User Bio: ¯\\_(ツ)_/¯</p>
+  </li>
+      
+</ul>
+<!--
 <table cellspacing="0" cellpadding="0" style="border: none;">
   <tbody cellspacing="0" cellpadding="0" style="border: none;">
     <tr style="border: none;">
@@ -93,10 +110,10 @@ W1P43V3R
         <a href="https://github.com/davorpa">
           <img
             style="border-radius: 50%;"
-            align="left"
+            align="center"
             src="https://avatars2.githubusercontent.com/u/3125580?u=c2e74a0463a0902e48feab5c1859f7af2b849b5e&v=4"
-            width="96"
-            height="65"
+            width="100"
+            height="100"
           />
         </a>
       </td>
@@ -113,4 +130,5 @@ W1P43V3R
     
   </tbody>
 </table>
+-->
 
