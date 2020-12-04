@@ -56,9 +56,11 @@ Here you can find some of my learning notes and exercises.
 </p>
 
 W1P43V3R
-## Recent Stargazers:
 
 <p href="https://github.com/arturssmirnovs/github-profile-views-counter" align="center"><img src="https://gpvc.arturio.dev/vinjatovix"></p>
+
+## Recent Stargazers:
+
 <table cellspacing="0" cellpadding="0" style="border: none;">
   <tbody cellspacing="0" cellpadding="0" style="border: none;">
     {% for stargazer in stargazers -%}
