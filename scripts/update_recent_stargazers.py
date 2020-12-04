@@ -10,7 +10,7 @@ from jinja2 import Environment, FileSystemLoader
 url: str = "https://api.github.com/graphql"
 query: str = """
 {
-  user(login: "Dineshkarthik") {
+  user(login: "vinjatovix") {
     repositories(first: 30, isFork: false, isLocked: false, privacy: PUBLIC) {
       totalCount
       nodes {
