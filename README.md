@@ -71,38 +71,6 @@ W1P43V3R
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vinjatovix&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=vinjatovix&redirect=true)
 
-## Recent Stargazers:
-
-<table cellspacing="0" cellpadding="0" style="border: none;">
-  <tbody cellspacing="0" cellpadding="0" style="border: none;">
-    {% for stargazer in stargazers -%}
-    <tr style="border: none;">
-      <td style="border: none">
-        <a href="https://github.com/{{ stargazer.login }}">
-          <img
-            style="border-radius: 50%;"
-            align="left"
-            src="{{ stargazer.avatar }}"
-            width="96"
-            height="65"
-          />
-        </a>
-      </td>
-      <td style="border: none">
-        <div>
-          <a href="https://github.com/{{ stargazer.login }}">{{ stargazer.name }}</a> 
-          starred <a href="{{ stargazer.project_url }}">{{ stargazer.project_name }}</a>
-        </div>
-        <div>
-          User Bio: {{ stargazer.bio }}
-        </div>
-      </td>
-    </tr>
-    {% endfor %}
-  </tbody>
-</table>
-
-
 
 [linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://www.linkedin.com/in/1337sound/
@@ -118,3 +86,34 @@ W1P43V3R
 [stackoverflow-shield]:  https://img.shields.io/badge/Stackoverflow-000000?&style=for-the-badge&logo=stackoverflow&logoColor=red
  [codewars-url]: https://www.codewars.com/users/vinjatovix
 [codewars-shield]:  https://img.shields.io/badge/codewars-000000?&style=for-the-badge&logo=codewars&logoColor=red
+
+## Recent Stargazers:
+
+<table cellspacing="0" cellpadding="0" style="border: none;">
+  <tbody cellspacing="0" cellpadding="0" style="border: none;">
+    <tr style="border: none;">
+      <td style="border: none">
+        <a href="https://github.com/davorpa">
+          <img
+            style="border-radius: 50%;"
+            align="left"
+            src="https://avatars2.githubusercontent.com/u/3125580?u=c2e74a0463a0902e48feab5c1859f7af2b849b5e&v=4"
+            width="96"
+            height="65"
+          />
+        </a>
+      </td>
+      <td style="border: none">
+        <div>
+          <a href="https://github.com/davorpa">David Ordás</a> 
+          starred <a href="https://github.com/vinjatovix/booking-flights-app">booking-flights-app</a>
+        </div>
+        <div>
+          User Bio: ¯\\_(ツ)_/¯
+        </div>
+      </td>
+    </tr>
+    
+  </tbody>
+</table>
+
