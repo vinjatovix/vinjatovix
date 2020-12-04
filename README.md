@@ -56,8 +56,8 @@ Here you can find some of my learning notes and exercises.
 </p>
 
 W1P43V3R
+## Recent Stargazers:
 
-<!-- 
 <p href="https://github.com/arturssmirnovs/github-profile-views-counter" align="center"><img src="https://gpvc.arturio.dev/vinjatovix"></p>
 <table cellspacing="0" cellpadding="0" style="border: none;">
   <tbody cellspacing="0" cellpadding="0" style="border: none;">
@@ -87,7 +87,7 @@ W1P43V3R
     {% endfor %}
   </tbody>
 </table>
--->
+
 [linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://www.linkedin.com/in/1337sound/
 [instagram-shield]: https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white
