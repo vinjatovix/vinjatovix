@@ -17,19 +17,20 @@ A samurai never breaks his word. Never share your codewars kata solutions in pub
 #### "Codess bride" 
 
 
-![Git](https://img.shields.io/badge/git-000000?&style=for-the-badge&logo=git&logoColor=red)  ![Python](https://img.shields.io/badge/python-000000?&style=for-the-badge&logo=python&logoColor=yellow) ![Markdown](https://img.shields.io/badge/-Markdown-000000?&style=for-the-badge&logo=markdown) ![Html](https://img.shields.io/badge/html-000000?&style=for-the-badge&logo=html5&color=black&logoColor=red) ![Css](https://img.shields.io/badge/css-000000?&style=for-the-badge&logo=css3&logoColor=blue&color=black) ![Javascrip](https://img.shields.io/badge/js-000000?&style=for-the-badge&logo=javascript&logoColor=yellow&color=black) ![Mysql](https://img.shields.io/badge/mysql-000000?&style=for-the-badge&logo=mysql&logoColor=yellow&color=black) ![Node](https://img.shields.io/badge/node-000000?&style=for-the-badge&logo=node.js&logoColor=green&color=black) 
+![Git](https://img.shields.io/badge/git-000000?&style=for-the-badge&logo=git&logoColor=red) ![Bash](https://img.shields.io/badge/bash-000000?&style=for-the-badge&logo=gnu-bash&logoColor=green) ![Python](https://img.shields.io/badge/python-000000?&style=for-the-badge&logo=python&logoColor=yellow) ![Anaconda](https://img.shields.io/badge/anaconda-000000?&style=for-the-badge&logo=anaconda&logoColor=green) ![Jupyter](https://img.shields.io/badge/jupyter-000000?&style=for-the-badge&logo=jupyter&logoColor=orange) ![Markdown](https://img.shields.io/badge/-Markdown-000000?&style=for-the-badge&logo=markdown) ![Html](https://img.shields.io/badge/html-000000?&style=for-the-badge&logo=html5&color=black&logoColor=red) ![Css](https://img.shields.io/badge/css-000000?&style=for-the-badge&logo=css3&logoColor=blue&color=black) ![Javascrip](https://img.shields.io/badge/js-000000?&style=for-the-badge&logo=javascript&logoColor=yellow&color=black) ![Mysql](https://img.shields.io/badge/mysql-000000?&style=for-the-badge&logo=mysql&logoColor=yellow&color=black) ![Node](https://img.shields.io/badge/node-000000?&style=for-the-badge&logo=node.js&logoColor=green&color=black) ![React](https://img.shields.io/badge/react-000000?&style=for-the-badge&logo=react&logoColor=blue) 
 
-![Ubuntu](https://img.shields.io/badge/ubuntu-%20039120.svg?&style=for-the-badge&logo=ubuntu&logoColor=orange&color=black)
-![Debian](https://img.shields.io/badge/debian-%23239120.svg?&style=for-the-badge&logo=debian&logoColor=red&color=black)
-![Windows](https://img.shields.io/badge/windows-%23239120.svg?&style=for-the-badge&logo=windows&logoColor=blue&color=black)
-![Mac](https://img.shields.io/badge/macos-%23239120.svg?&style=for-the-badge&logo=apple&logoColor=white&color=black)
+
+![Ubuntu](https://img.shields.io/badge/ubuntu-000000?&style=for-the-badge&logo=ubuntu&logoColor=orange)
+![Debian](https://img.shields.io/badge/debian-000000?&style=for-the-badge&logo=debian&logoColor=red)
+![Windows](https://img.shields.io/badge/windows-000000?&style=for-the-badge&logo=windows&logoColor=blue)
+![Mac](https://img.shields.io/badge/macos-000000?&style=for-the-badge&logo=apple&logoColor=white)
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC) 
-![Adobe](https://img.shields.io/badge/adobe-%23239120.svg?&style=for-the-badge&logo=adobe&logoColor=red&color=black)
-![Audition](https://img.shields.io/badge/audition-%23239120.svg?&style=for-the-badge&logo=adobe-audition&logoColor=white&color=2A687A)
-![After](https://img.shields.io/badge/After-%23239120.svg?&style=for-the-badge&logo=adobe-after-effetcs&logoColor=64205F&color=501F5F)
-![Premiere](https://img.shields.io/badge/premiere-%23239120.svg?&style=for-the-badge&logo=adobe-premiere&logoColor=white&color=963493)
-![Unity](https://img.shields.io/badge/unity-%23239120.svg?&style=for-the-badge&logo=unity&logoColor=white&color=black)
+![Adobe](https://img.shields.io/badge/adobe-000000?&style=for-the-badge&logo=adobe&logoColor=red)
+![Audition](https://img.shields.io/badge/audition-000000?&style=for-the-badge&logo=adobe-audition&logoColor=2A687A)
+![After](https://img.shields.io/badge/After-000000?&style=for-the-badge&logo=adobe-after-effetcs&logoColor=64205F&color=501F5F)
+![Premiere](https://img.shields.io/badge/premiere-000000?&style=for-the-badge&logo=adobe-premiere&logoColor=white&color=963493)
+![Unity](https://img.shields.io/badge/unity-000000?&style=for-the-badge&logo=unity&logoColor=white)
 ![Arduino](https://img.shields.io/badge/arduino-%23239120.svg?&style=for-the-badge&logo=arduino&logoColor=blue&color=black)
 
 
@@ -64,5 +65,5 @@ W1P43V3R
 [instagram-url]: https://www.instagram.com/vinjatovix/
 [spotify-shield]: https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white
 [spotify-url]: https://open.spotify.com/user/vinjatovix?si=BoXDteYjRoOLjRYuc6VMNg
-[imdb-shield]: https://img.shields.io/badge/imdb-%230077B5.svg?&style=for-the-badge&logo=imdb&logoColor=yellow&color=black
+[imdb-shield]: https://img.shields.io/badge/imdb-%230077B5.svg?&style=for-the-badge&logo=imdb&logoColor=black&color=yellow
 [imdb-url]: https://www.imdb.com/name/nm4453287/
