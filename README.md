@@ -17,20 +17,20 @@ A samurai never breaks his word. Never share your codewars kata solutions in pub
 #### "Codess bride" 
 
 
-![forthebadge](https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=yellow) ![forthebadge](https://img.shields.io/badge/html-%23239120.svg?&style=for-the-badge&logo=html5&color=black&logoColor=red) ![forthebadge](https://img.shields.io/badge/css-%23239120.svg?&style=for-the-badge&logo=css3&logoColor=blue&color=black) ![forthebadge](https://img.shields.io/badge/js-%23239120.svg?&style=for-the-badge&logo=javascript&logoColor=yellow&color=black) 
+![Git](https://img.shields.io/badge/git-000000?&style=for-the-badge&logo=git&logoColor=red)  ![Python](https://img.shields.io/badge/python-000000?&style=for-the-badge&logo=python&logoColor=yellow) ![Markdown](https://img.shields.io/badge/-Markdown-000000?&style=for-the-badge&logo=markdown) ![Html](https://img.shields.io/badge/html-000000?&style=for-the-badge&logo=html5&color=black&logoColor=red) ![Css](https://img.shields.io/badge/css-000000?&style=for-the-badge&logo=css3&logoColor=blue&color=black) ![Javascrip](https://img.shields.io/badge/js-000000?&style=for-the-badge&logo=javascript&logoColor=yellow&color=black) ![Mysql](https://img.shields.io/badge/mysql-000000?&style=for-the-badge&logo=mysql&logoColor=yellow&color=black) ![Node](https://img.shields.io/badge/node-000000?&style=for-the-badge&logo=node.js&logoColor=green&color=black) 
 
-![forthebadge](https://img.shields.io/badge/ubuntu-%20039120.svg?&style=for-the-badge&logo=ubuntu&logoColor=orange&color=black)
-![forthebadge](https://img.shields.io/badge/debian-%23239120.svg?&style=for-the-badge&logo=debian&logoColor=red&color=black)
-![forthebadge](https://img.shields.io/badge/windows-%23239120.svg?&style=for-the-badge&logo=windows&logoColor=blue&color=black)
-![forthebadge](https://img.shields.io/badge/macos-%23239120.svg?&style=for-the-badge&logo=apple&logoColor=white&color=black)
+![Ubuntu](https://img.shields.io/badge/ubuntu-%20039120.svg?&style=for-the-badge&logo=ubuntu&logoColor=orange&color=black)
+![Debian](https://img.shields.io/badge/debian-%23239120.svg?&style=for-the-badge&logo=debian&logoColor=red&color=black)
+![Windows](https://img.shields.io/badge/windows-%23239120.svg?&style=for-the-badge&logo=windows&logoColor=blue&color=black)
+![Mac](https://img.shields.io/badge/macos-%23239120.svg?&style=for-the-badge&logo=apple&logoColor=white&color=black)
 
-
-![forthebadge](https://img.shields.io/badge/adobe-%23239120.svg?&style=for-the-badge&logo=adobe&logoColor=red&color=black)
-![forthebadge](https://img.shields.io/badge/audition-%23239120.svg?&style=for-the-badge&logo=audition&logoColor=white&color=2A687A)
-![forthebadge](https://img.shields.io/badge/After-%23239120.svg?&style=for-the-badge&logo=after&logoColor=64205F&color=501F5F)
-![forthebadge](https://img.shields.io/badge/premiere-%23239120.svg?&style=for-the-badge&logo=premiere&logoColor=white&color=963493)
-![forthebadge](https://img.shields.io/badge/unity-%23239120.svg?&style=for-the-badge&logo=unity&logoColor=white&color=black)
-![forthebadge](https://img.shields.io/badge/arduino-%23239120.svg?&style=for-the-badge&logo=arduino&logoColor=blue&color=black)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC) 
+![Adobe](https://img.shields.io/badge/adobe-%23239120.svg?&style=for-the-badge&logo=adobe&logoColor=red&color=black)
+![Audition](https://img.shields.io/badge/audition-%23239120.svg?&style=for-the-badge&logo=adobe-audition&logoColor=white&color=2A687A)
+![After](https://img.shields.io/badge/After-%23239120.svg?&style=for-the-badge&logo=adobe-after-effetcs&logoColor=64205F&color=501F5F)
+![Premiere](https://img.shields.io/badge/premiere-%23239120.svg?&style=for-the-badge&logo=adobe-premiere&logoColor=white&color=963493)
+![Unity](https://img.shields.io/badge/unity-%23239120.svg?&style=for-the-badge&logo=unity&logoColor=white&color=black)
+![Arduino](https://img.shields.io/badge/arduino-%23239120.svg?&style=for-the-badge&logo=arduino&logoColor=blue&color=black)
 
 
 
