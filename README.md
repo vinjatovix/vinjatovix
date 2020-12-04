@@ -100,7 +100,7 @@ F5C300
 [instagram-url]: https://www.instagram.com/vinjatovix/
 [spotify-shield]: https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white
 [spotify-url]: https://open.spotify.com/user/vinjatovix?si=BoXDteYjRoOLjRYuc6VMNg
-[spreaker-shield]: https://img.shields.io/badge/spreaker-%231ED760.svg?&style=for-the-badge&logo=spreaker&logoColor=white&color=F5C300
+[spreaker-shield]: https://img.shields.io/badge/spreaker-000000?&style=for-the-badge&logo=spreaker&logoColor=F5C300
 [spreaker-url]: https://www.spreaker.com/user/vinjatovix
 [imdb-shield]: https://img.shields.io/badge/imdb-%230077B5.svg?&style=for-the-badge&logo=imdb&logoColor=black&color=yellow
 [imdb-url]: https://www.imdb.com/name/nm4453287/
