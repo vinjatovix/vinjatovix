@@ -27,8 +27,9 @@ jobs:
     - name: update-recent-stargazers
       run: python scripts/update_recent_stargazers.py
       env:
-        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         repo-token: ${{ secrets.GITHUB_TOKEN }}
+        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        
 
     - uses: stefanzweifel/git-auto-commit-action@v4
       with:
