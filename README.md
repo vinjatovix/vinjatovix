@@ -6,10 +6,9 @@
     <p align="center">
     <img src='https://www.codewars.com/users/vinjatovix/badges/large'/>
 </p>
-  
 
-
-
+# ☯️ Bushini nigonwa nai
+A samurai never breaks his word. Never share your codewars kata solutions in public.
 
 ## My name is Vinjatovix Imanub. You need programmers. Prepare to hire.
 "Codess bride" [![LinkedIn][linkedin-shield]][linkedin-url]
