@@ -28,8 +28,8 @@ A samurai never breaks his word. Never share your codewars kata solutions in pub
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC) 
 ![Adobe](https://img.shields.io/badge/adobe-000000?&style=for-the-badge&logo=adobe&logoColor=red)
 ![Audition](https://img.shields.io/badge/audition-000000?&style=for-the-badge&logo=adobe-audition&logoColor=2A687A)
-![After](https://img.shields.io/badge/After-000000?&style=for-the-badge&logo=adobe-after-effetcs&logoColor=64205F&color=501F5F)
-![Premiere](https://img.shields.io/badge/premiere-000000?&style=for-the-badge&logo=adobe-premiere&logoColor=white&color=963493)
+![After](https://img.shields.io/badge/After-000000?&style=for-the-badge&logo=adobe-aftereffects&logoColor=64205F&color=501F5F)
+![Premiere](https://img.shields.io/badge/premiere-000000?&style=for-the-badge&logo=adobe-premierepro&logoColor=white&color=963493)
 ![Unity](https://img.shields.io/badge/unity-000000?&style=for-the-badge&logo=unity&logoColor=white)
 ![Arduino](https://img.shields.io/badge/arduino-%23239120.svg?&style=for-the-badge&logo=arduino&logoColor=blue&color=black)
 
