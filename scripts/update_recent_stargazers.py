@@ -63,7 +63,7 @@ def get_normalized_stargazers_list(overall_list: List[dict]) -> List[dict]:
     stargazer_names: List[str] = []
     for row in overall_list:
         if not row["login"] in stargazer_names:
-            stargazer_names.append(rowhttps://api.github.com/graphql/vinjatovix["login"])
+            stargazer_names.append(row["login"])
             normalized_stargazers_list.append(row)
     return normalized_stargazers_list
 
