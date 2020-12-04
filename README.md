@@ -44,6 +44,11 @@ A samurai never breaks his word. Never share your codewars kata solutions in pub
 <a href="https://linktr.ee/vinjadevix"><img src="https://github-readme-stats.vercel.app/api?username=vinjatovix&count_private=true&show_icons=true&theme=merko" width="100%" /></a>
 <a href="https://linktr.ee/vinjadevix"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinjatovix&langs_count=10&layout=compact&theme=merko" width="100%" /></a>
 
+
+  <img src="https://raw.githubusercontent.com/vinjatovis/vinjatovix/main/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
+  <img src="https://raw.githubusercontent.com/vinjatovix/vinjatovix/main/profile-summary-card-output/default/1-repos-per-language.svg">
+  <img src="https://raw.githubusercontent.com/vinjatovix/vinjatovix/main/profile-summary-card-output/default/2-most-commit-language.svg"></br></p>
+
 <p>
 At the moment I am doing a bootcamp on MERN.
 Here you can find some of my learning notes and exercises.
@@ -63,6 +68,8 @@ Here you can find some of my learning notes and exercises.
 W1P43V3R
 
 <p href="https://github.com/arturssmirnovs/github-profile-views-counter" align="center"><img src="https://gpvc.arturio.dev/vinjatovix"></p>
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/vinjatovix?si=hOcgvFhDT8WTH64zWbX4Gw)
 <!--
 ## Recent Stargazers:
 <table cellspacing="0" cellpadding="0" style="border: none;">
@@ -95,8 +102,6 @@ W1P43V3R
 </table>
 -->
 
-
-F5C300
 
 
 [linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
