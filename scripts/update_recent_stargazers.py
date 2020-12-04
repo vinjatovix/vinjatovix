@@ -11,7 +11,7 @@ url: str = "https://api.github.com/graphql"
 query: str = """
 {
   user(login: "vinjatovix") {
-    repositories(first: 30, isFork: true, isLocked: false, privacy: PUBLIC) {
+    repositories(first: 30, isFork: false, isLocked: false, privacy: PUBLIC) {
       totalCount
       nodes {
         stargazers(orderBy: {field: STARRED_AT, direction: DESC}, first: 10) {
@@ -63,7 +63,7 @@ def get_normalized_stargazers_list(overall_list: List[dict]) -> List[dict]:
     stargazer_names: List[str] = []
     for row in overall_list:
         if not row["login"] in stargazer_names:
-            stargazer_names.append(row["login"])
+            stargazer_names.append(rowhttps://api.github.com/graphql/vinjatovix["login"])
             normalized_stargazers_list.append(row)
     return normalized_stargazers_list
 
