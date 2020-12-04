@@ -36,7 +36,7 @@ A samurai never breaks his word. Never share your codewars kata solutions in pub
 
 [![LinkedIn][linkedin-shield]][linkedin-url] [![Instagram][instagram-shield]][instagram-url] [![Imdb][imdb-shield]][imdb-url] [![Spotify][spotify-shield]][spotify-url]
 
-[![Vinjatovix's github stats](https://github-readme-stats.vercel.app/api?username=vinjatovix&count_private=true&show_icons=true&theme=merko)](https://github.com/vinjatovix/) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinjatovix&layout=compact&theme=merko)](https://github.com/vinjatovix/)
+[![Vinjatovix's github stats](https://github-readme-stats.vercel.app/api?username=vinjatovix&count_private=true&show_icons=true&theme=merko)](https://github.com/vinjatovix/) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinjatovix&langs_count=10&layout=compact&theme=merko)](https://github.com/vinjatovix/)
 
 <p>
 At the moment I am doing a bootcamp on MERN.
