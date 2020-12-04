@@ -69,7 +69,7 @@ W1P43V3R
 
 <p href="https://github.com/arturssmirnovs/github-profile-views-counter" align="center"><img src="https://gpvc.arturio.dev/vinjatovix"></p>
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/vinjatovix?si=hOcgvFhDT8WTH64zWbX4Gw)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vinjatovix&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=vinjatovix&redirect=true)
 <!--
 ## Recent Stargazers:
 <table cellspacing="0" cellpadding="0" style="border: none;">
