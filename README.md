@@ -16,21 +16,24 @@ A samurai never breaks his word. Never share your codewars kata solutions in pub
 ### My name is Vinjatovix Imanub. You need programmers. Prepare to hire.
 #### "Codess bride" 
 
-
-![Git](https://img.shields.io/badge/git-000000?&style=for-the-badge&logo=&logoColor=red) ![Bash](https://img.shields.io/badge/bash-000000?&style=for-the-badge&logo=gnu-bash&logoColor=green) ![Python](https://img.shields.io/badge/python-000000?&style=for-the-badge&logo=python&logoColor=yellow) ![Anaconda](https://img.shields.io/badge/anaconda-000000?&style=for-the-badge&logo=anaconda&logoColor=green) ![Jupyter](https://img.shields.io/badge/jupyter-000000?&style=for-the-badge&logo=jupyter&logoColor=orange) ![Markdown](https://img.shields.io/badge/-Markdown-000000?&style=for-the-badge&logo=markdown) ![Html](https://img.shields.io/badge/html-000000?&style=for-the-badge&logo=html5&color=black&logoColor=red) ![Css](https://img.shields.io/badge/css-000000?&style=for-the-badge&logo=css3&logoColor=blue&color=black) ![Javascrip](https://img.shields.io/badge/js-000000?&style=for-the-badge&logo=javascript&logoColor=yellow&color=black) ![Mysql](https://img.shields.io/badge/mysql-000000?&style=for-the-badge&logo=mysql&logoColor=yellow&color=black) ![Node](https://img.shields.io/badge/node-000000?&style=for-the-badge&logo=node.js&logoColor=green&color=black) ![express](https://img.shields.io/badge/express-000000?&style=for-the-badge&logo=npm-express&logoColor=blue&color=black) ![React](https://img.shields.io/badge/react-000000?&style=for-the-badge&logo=react&logoColor=blue) ![postman](https://img.shields.io/badge/postman-000000?&style=for-the-badge&logo=postman&logoColor=FF6C37) 
-
-
 ![Ubuntu](https://img.shields.io/badge/ubuntu-000000?&style=for-the-badge&logo=ubuntu&logoColor=orange)
 ![Debian](https://img.shields.io/badge/debian-000000?&style=for-the-badge&logo=debian&logoColor=red)
 ![Windows](https://img.shields.io/badge/windows-000000?&style=for-the-badge&logo=windows&logoColor=blue)
 ![Mac](https://img.shields.io/badge/macos-000000?&style=for-the-badge&logo=apple&logoColor=white)
 
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC) 
+![Git](https://img.shields.io/badge/git-000000?&style=for-the-badge&logo=&logoColor=red) ![Bash](https://img.shields.io/badge/bash-000000?&style=for-the-badge&logo=gnu-bash&logoColor=green) ![Python](https://img.shields.io/badge/python-000000?&style=for-the-badge&logo=python&logoColor=yellow) ![Anaconda](https://img.shields.io/badge/anaconda-000000?&style=for-the-badge&logo=anaconda&logoColor=green) ![Jupyter](https://img.shields.io/badge/jupyter-000000?&style=for-the-badge&logo=jupyter&logoColor=orange) ![Markdown](https://img.shields.io/badge/-Markdown-000000?&style=for-the-badge&logo=markdown) ![Html](https://img.shields.io/badge/html-000000?&style=for-the-badge&logo=html5&color=black&logoColor=red) ![Css](https://img.shields.io/badge/css-000000?&style=for-the-badge&logo=css3&logoColor=blue&color=black) ![Javascrip](https://img.shields.io/badge/js-000000?&style=for-the-badge&logo=javascript&logoColor=yellow&color=black) ![Mysql](https://img.shields.io/badge/mysql-000000?&style=for-the-badge&logo=mysql&logoColor=yellow) ![Mongo](https://img.shields.io/badge/mongoDB-000000?&style=for-the-badge&logo=mongodb&logoColor=47a248) ![Node](https://img.shields.io/badge/node-000000?&style=for-the-badge&logo=node.js&logoColor=green&color=black) ![express](https://img.shields.io/badge/express-000000?&style=for-the-badge&logo=npm-express&logoColor=blue&color=black) ![React](https://img.shields.io/badge/react-000000?&style=for-the-badge&logo=react&logoColor=blue) ![postman](https://img.shields.io/badge/postman-000000?&style=for-the-badge&logo=postman&logoColor=FF6C37) 
+
+
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC) 
 ![figma](https://img.shields.io/badge/figma-000000?&style=for-the-badge&logo=figma&logoColor=white)
+![trello](https://img.shields.io/badge/trello-000000?&style=for-the-badge&logo=trello&logoColor=blue)
+![jira](https://img.shields.io/badge/jira-000000?&style=for-the-badge&logo=jira-software&logoColor=blue)
 ![nuendo](https://img.shields.io/badge/nuendo-000000?&style=for-the-badge&logo=steinberg&logoColor=red)
 ![reason](https://img.shields.io/badge/reason-000000?&style=for-the-badge&logo=reason&logoColor=DD4B39)
+![Ableton](https://img.shields.io/badge/Ableton-000000?&style=for-the-badge&logo=ableton-live&logoColor=white)
 ![Audition](https://img.shields.io/badge/audition-000000?&style=for-the-badge&logo=adobe-audition&logoColor=2A687A)
-![After](https://img.shields.io/badge/After-000000?&style=for-the-badge&logo=adobe-aftereffects&logoColor=64205F&color=501F5F)
+![After](https://img.shields.io/badge/After-000000?&style=for-the-badge&logo=adobe-after-effects&logoColor=9999FF)
 ![Premiere](https://img.shields.io/badge/premiere-000000?&style=for-the-badge&logo=adobe-premierepro&logoColor=white&color=963493)
 ![Unity](https://img.shields.io/badge/unity-000000?&style=for-the-badge&logo=unity&logoColor=white)
 ![Arduino](https://img.shields.io/badge/arduino-%23239120.svg?&style=for-the-badge&logo=arduino&logoColor=blue&color=black)
