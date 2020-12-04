@@ -70,8 +70,9 @@ W1P43V3R
 <p href="https://github.com/arturssmirnovs/github-profile-views-counter" align="center"><img src="https://gpvc.arturio.dev/vinjatovix"></p>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vinjatovix&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=vinjatovix&redirect=true)
-<!--
+
 ## Recent Stargazers:
+
 <table cellspacing="0" cellpadding="0" style="border: none;">
   <tbody cellspacing="0" cellpadding="0" style="border: none;">
     {% for stargazer in stargazers -%}
@@ -100,7 +101,6 @@ W1P43V3R
     {% endfor %}
   </tbody>
 </table>
--->
 
 
 
