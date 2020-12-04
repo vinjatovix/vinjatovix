@@ -86,6 +86,24 @@ W1P43V3R
 
 <p><a href="https://github.com/Dineshkarthik/Dineshkarthik">Based on Dineshkarthik's work</a>, You ROX! </p>
 
+<ul>
+      {% for stargazer in stargazers -%}
+  <li style="list-style: none;">        <a href="https://github.com/{{ stargazer.login }}">
+          <img
+            style="border-radius: 50%;"
+            align="center"
+            src="{{ stargazer.avatar }}"
+            width="100"
+            height="100"
+          />
+        </a>
+    <p><a href="https://github.com/{{ stargazer.login }}">{{ stargazer.name }}</a> 
+      starred <a href="{{ stargazer.project_url }}">{{ stargazer.project_name }}</a></p>
+    <p>User Bio: {{ stargazer.bio }}</p>
+  </li>
+      {% endfor %}
+</ul>
+<!--
 <table cellspacing="0" cellpadding="0" style="border: none;">
   <tbody cellspacing="0" cellpadding="0" style="border: none;">
     {% for stargazer in stargazers -%}
@@ -94,10 +112,10 @@ W1P43V3R
         <a href="https://github.com/{{ stargazer.login }}">
           <img
             style="border-radius: 50%;"
-            align="left"
+            align="center"
             src="{{ stargazer.avatar }}"
-            width="96"
-            height="65"
+            width="100"
+            height="100"
           />
         </a>
       </td>
@@ -114,5 +132,6 @@ W1P43V3R
     {% endfor %}
   </tbody>
 </table>
+-->
 
 
