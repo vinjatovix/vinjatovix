@@ -89,6 +89,8 @@ W1P43V3R
 
 ## Recent Stargazers:
 
+<p><a href="https://github.com/Dineshkarthik/Dineshkarthik">Based on Dineshkarthik's work</a>, You ROX! </p>
+
 <table cellspacing="0" cellpadding="0" style="border: none;">
   <tbody cellspacing="0" cellpadding="0" style="border: none;">
     {% for stargazer in stargazers -%}
