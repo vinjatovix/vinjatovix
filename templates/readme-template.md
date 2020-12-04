@@ -85,10 +85,12 @@ W1P43V3R
 ## Recent Stargazers:
 
 <p><a href="https://github.com/Dineshkarthik/Dineshkarthik">Based on Dineshkarthik's work</a>, You ROX! </p>
+<hr>
 
+<div>
 <ul>
       {% for stargazer in stargazers -%}
-  <li style="list-style: none;">        <a href="https://github.com/{{ stargazer.login }}">
+  <li>        <a href="https://github.com/{{ stargazer.login }}">
           <img
             style="border-radius: 50%;"
             align="center"
@@ -101,8 +103,10 @@ W1P43V3R
       starred <a href="{{ stargazer.project_url }}">{{ stargazer.project_name }}</a></p>
     <p>User Bio: {{ stargazer.bio }}</p>
   </li>
+  <hr>
       {% endfor %}
 </ul>
+  </div>
 <!--
 <table cellspacing="0" cellpadding="0" style="border: none;">
   <tbody cellspacing="0" cellpadding="0" style="border: none;">
