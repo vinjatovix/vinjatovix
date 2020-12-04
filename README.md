@@ -85,9 +85,11 @@ W1P43V3R
 ## Recent Stargazers:
 
 <p><a href="https://github.com/Dineshkarthik/Dineshkarthik">Based on Dineshkarthik's work</a>, You ROX! </p>
+<hr>
 
+<div>
 <ul>
-      <li style="list-style: none;">        <a href="https://github.com/davorpa">
+      <li>        <a href="https://github.com/davorpa">
           <img
             style="border-radius: 50%;"
             align="center"
@@ -100,8 +102,10 @@ W1P43V3R
       starred <a href="https://github.com/vinjatovix/booking-flights-app">booking-flights-app</a></p>
     <p>User Bio: ¯\\_(ツ)_/¯</p>
   </li>
+  <hr>
       
 </ul>
+  </div>
 <!--
 <table cellspacing="0" cellpadding="0" style="border: none;">
   <tbody cellspacing="0" cellpadding="0" style="border: none;">
