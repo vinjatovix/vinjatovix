@@ -4,7 +4,7 @@ A samurai never breaks his word. Never share your codewars kata solutions in pub
 
 <p align="center">
   <a href="https://linktr.ee/vinjadevix">
-    <img src="./img/logo.png" alt="Logo" width="400" height="400">
+    <img src="./img/logo.png" alt="Logo" width="300" height="300">
   </a>
     </p>
     <p align="center">
@@ -24,20 +24,19 @@ A samurai never breaks his word. Never share your codewars kata solutions in pub
 ![forthebadge](https://img.shields.io/badge/windows-%23239120.svg?&style=for-the-badge&logo=windows&logoColor=blue&color=black)
 ![forthebadge](https://img.shields.io/badge/macos-%23239120.svg?&style=for-the-badge&logo=apple&logoColor=white&color=black)
 
-![forthebadge](https://img.shields.io/badge/unity-%23239120.svg?&style=for-the-badge&logo=unity&logoColor=white&color=black)
 
-![forthebadge](https://img.shields.io/badge/-%23239120.svg?&style=for-the-badge&logo=adobe&logoColor=red&color=black)
+![forthebadge](https://img.shields.io/badge/adobe-%23239120.svg?&style=for-the-badge&logo=adobe&logoColor=red&color=black)
 ![forthebadge](https://img.shields.io/badge/audition-%23239120.svg?&style=for-the-badge&logo=audition&logoColor=white&color=2A687A)
 ![forthebadge](https://img.shields.io/badge/After-%23239120.svg?&style=for-the-badge&logo=after&logoColor=64205F&color=501F5F)
 ![forthebadge](https://img.shields.io/badge/premiere-%23239120.svg?&style=for-the-badge&logo=premiere&logoColor=white&color=963493)
+![forthebadge](https://img.shields.io/badge/unity-%23239120.svg?&style=for-the-badge&logo=unity&logoColor=white&color=black)
+![forthebadge](https://img.shields.io/badge/arduino-%23239120.svg?&style=for-the-badge&logo=arduino&logoColor=blue&color=black)
+
+
 
 [![LinkedIn][linkedin-shield]][linkedin-url] [![Instagram][instagram-shield]][instagram-url] [![Imdb][imdb-shield]][imdb-url] [![Spotify][spotify-shield]][spotify-url]
 
 [![Vinjatovix's github stats](https://github-readme-stats.vercel.app/api?username=vinjatovix&count_private=true&show_icons=true&theme=merko)](https://github.com/vinjatovix/) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinjatovix&layout=compact&theme=merko)](https://github.com/vinjatovix/)
-
-
-
-
 
 <p>
 At the moment I am doing a bootcamp on MERN.
