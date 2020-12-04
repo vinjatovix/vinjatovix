@@ -44,11 +44,6 @@ A samurai never breaks his word. Never share your codewars kata solutions in pub
 <a href="https://linktr.ee/vinjadevix"><img src="https://github-readme-stats.vercel.app/api?username=vinjatovix&count_private=true&show_icons=true&theme=merko" width="100%" /></a>
 <a href="https://linktr.ee/vinjadevix"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinjatovix&langs_count=10&layout=compact&theme=merko" width="100%" /></a>
 
-
-  <img src="https://raw.githubusercontent.com/vinjatovis/vinjatovix/main/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
-  <img src="https://raw.githubusercontent.com/vinjatovix/vinjatovix/main/profile-summary-card-output/default/1-repos-per-language.svg">
-  <img src="https://raw.githubusercontent.com/vinjatovix/vinjatovix/main/profile-summary-card-output/default/2-most-commit-language.svg"></br></p>
-
 <p>
 At the moment I am doing a bootcamp on MERN.
 Here you can find some of my learning notes and exercises.
