@@ -89,6 +89,20 @@ W1P43V3R
 
 <div>
 <ul>
+      <li>        <a href="https://github.com/samurodriguez">
+          <img
+            style="border-radius: 50%;"
+            align="center"
+            src="https://avatars0.githubusercontent.com/u/71942467?u=bfa2ede24462af3d98b724c3526e4b6e7156d118&v=4"
+            width="100"
+            height="100"
+          />
+        </a>
+    <p><a href="https://github.com/samurodriguez">Samuel Rodríguez</a> 
+      starred <a href="https://github.com/vinjatovix/jsb07co_js_homework">jsb07co_js_homework</a></p>
+    <p>User Bio: Nothing to 👀 here , no bio...!!</p>
+  </li>
+  <hr>
       <li>        <a href="https://github.com/davorpa">
           <img
             style="border-radius: 50%;"
@@ -109,6 +123,28 @@ W1P43V3R
 <!--
 <table cellspacing="0" cellpadding="0" style="border: none;">
   <tbody cellspacing="0" cellpadding="0" style="border: none;">
+    <tr style="border: none;">
+      <td style="border: none">
+        <a href="https://github.com/samurodriguez">
+          <img
+            style="border-radius: 50%;"
+            align="center"
+            src="https://avatars0.githubusercontent.com/u/71942467?u=bfa2ede24462af3d98b724c3526e4b6e7156d118&v=4"
+            width="100"
+            height="100"
+          />
+        </a>
+      </td>
+      <td style="border: none">
+        <div>
+          <a href="https://github.com/samurodriguez">Samuel Rodríguez</a> 
+          starred <a href="https://github.com/vinjatovix/jsb07co_js_homework">jsb07co_js_homework</a>
+        </div>
+        <div>
+          User Bio: Nothing to 👀 here , no bio...!!
+        </div>
+      </td>
+    </tr>
     <tr style="border: none;">
       <td style="border: none">
         <a href="https://github.com/davorpa">
