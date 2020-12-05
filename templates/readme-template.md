@@ -88,31 +88,9 @@ W1P43V3R
 <hr>
 
 <div>
-<ul>
+  <ul>
       {% for stargazer in stargazers -%}
-  <li>        <a href="https://github.com/{{ stargazer.login }}">
-          <img
-            style="border-radius: 50%;"
-            align="center"
-            src="{{ stargazer.avatar }}"
-            width="100"
-            height="100"
-          />
-        </a>
-    <p><a href="https://github.com/{{ stargazer.login }}">{{ stargazer.name }}</a> 
-      starred <a href="{{ stargazer.project_url }}">{{ stargazer.project_name }}</a></p>
-    <p>User Bio: {{ stargazer.bio }}</p>
-  </li>
-  <hr>
-      {% endfor %}
-</ul>
-  </div>
-<!--
-<table cellspacing="0" cellpadding="0" style="border: none;">
-  <tbody cellspacing="0" cellpadding="0" style="border: none;">
-    {% for stargazer in stargazers -%}
-    <tr style="border: none;">
-      <td style="border: none">
+      <li>
         <a href="https://github.com/{{ stargazer.login }}">
           <img
             style="border-radius: 50%;"
@@ -122,20 +100,15 @@ W1P43V3R
             height="100"
           />
         </a>
-      </td>
-      <td style="border: none">
-        <div>
-          <a href="https://github.com/{{ stargazer.login }}">{{ stargazer.name }}</a> 
-          starred <a href="{{ stargazer.project_url }}">{{ stargazer.project_name }}</a>
-        </div>
-        <div>
-          User Bio: {{ stargazer.bio }}
-        </div>
-      </td>
-    </tr>
+        <p>
+          <a href="https://github.com/{{ stargazer.login }}">{{ stargazer.name }}</a> starred <a href="{{ stargazer.project_url }}">{{ stargazer.project_name }}             </a>
+        </p>
+        <p>User Bio: {{ stargazer.bio }}</p>
+    </li>
+    <hr>
     {% endfor %}
-  </tbody>
-</table>
--->
+  </ul>
+</div>
+
 
 
