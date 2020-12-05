@@ -102,7 +102,7 @@ W1P43V3R
         <p>
           <a href="https://github.com/samurodriguez">Samuel Rodríguez</a> starred <a href="https://github.com/vinjatovix/jsb07co_js_homework">jsb07co_js_homework             </a>
         </p>
-        <p>User Bio: Nothing to 👀 here , no bio...!!</p>
+        <p>User Bio: This user has no bio... 🙈🙉🙊♂️</p>
     </li>
     <hr>
     <li>
