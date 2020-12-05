@@ -48,7 +48,7 @@ def get_overall_stargazers_list(result: List[dict]) -> List[dict]:
                 dict_["login"] = edge["node"]["login"]
                 dict_["avatar"] = edge["node"]["avatarUrl"]
                 dict_["bio"] = (
-                    edge["node"]["bio"] or "This user has no bio... 🙈🙉🙊♂️"
+                    edge["node"]["bio"] or "This user has no bio... 🙈🙉🙊"
                 ).rstrip()
                 dict_["starredAt"] = edge["starredAt"]
                 list_.append(dict_)
