@@ -49,14 +49,17 @@ At the moment I am doing a bootcamp on MERN.
 Here you can find some of my learning notes and exercises.
   <ul>
     <li>
-    <a href="https://vinjatovix.github.io/jsb07co_css_homework/">CSS exercises  </a>
+      <a href="https://vinjatovix.github.io/jsb07co_css_homework/">CSS exercises  </a>
     </li>
     <li>
-    <a href="https://vinjatovix.github.io/js-own_notes/">JS notes on Spanish</a>
-    ·</li>
+      <a href="https://vinjatovix.github.io/js-own_notes/">JS notes on Spanish</a>
+    </li>
     <li>
-    <a href="https://vinjatovix.github.io/jsb07co_js_homework/index.html">JS exercises</a>
-    ·</li>
+      <a href="https://vinjatovix.github.io/jsb07co_js_homework/index.html">JS exercises</a>
+    </li>
+    <li>
+      <a href="https://github.com/vinjatovix/node-own_notes">Node notes</a>
+    </li>
   </ul>
 </p>
 
