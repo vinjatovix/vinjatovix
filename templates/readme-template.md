@@ -13,8 +13,13 @@ A samurai never breaks his word. Never share your codewars kata solutions in pub
 
 
 
-### My name is Vinjatovix Imanub. You need programmers. Prepare to hire.
-#### "Codess bride" 
+#### My name is Vinjatovix Imanub. You need programmers. Prepare to hire.
+###### "Codess bride" 
+
+## Check me on console:
+```
+npx vinjadevix
+```
 
 ![Ubuntu](https://img.shields.io/badge/ubuntu-000000?&style=for-the-badge&logo=ubuntu&logoColor=orange)
 ![Debian](https://img.shields.io/badge/debian-000000?&style=for-the-badge&logo=debian&logoColor=red)
