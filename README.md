@@ -21,6 +21,8 @@ A samurai never breaks his word. Never share your codewars kata solutions in pub
 npx vinjadevix
 ```
 
+ ## Stickers! ❤️
+
 ![Ubuntu](https://img.shields.io/badge/ubuntu-000000?&style=for-the-badge&logo=ubuntu&logoColor=orange)
 ![Debian](https://img.shields.io/badge/debian-000000?&style=for-the-badge&logo=debian&logoColor=red)
 ![Windows](https://img.shields.io/badge/windows-000000?&style=for-the-badge&logo=windows&logoColor=blue)
