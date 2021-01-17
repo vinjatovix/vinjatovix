@@ -20,6 +20,29 @@ A samurai never breaks his word. Never share your codewars kata solutions in pub
 ```
 npx vinjadevix
 ```
+<p>
+At the moment I am doing a bootcamp on MERN.
+Here you can find some of my learning notes and exercises.
+  <ul>
+    <li>
+      <a href="https://github.com/vinjatovix/booking-flights-app">Booking flights app</a>
+    </li>
+    <li>
+      <a href="https://vinjatovix.github.io/jsb07co_css_homework/">CSS exercises  </a>
+    </li>
+    <li>
+      <a href="https://vinjatovix.github.io/js-own_notes/">JS notes on Spanish</a>
+    </li>
+    <li>
+      <a href="https://vinjatovix.github.io/jsb07co_js_homework/index.html">JS exercises</a>
+    </li>
+    <li>
+      <a href="https://github.com/vinjatovix/node-own_notes">Node notes</a>
+    </li>
+  </ul>
+</p>
+
+W1P43V3R
 
  ## Stickers! ❤️
 
@@ -51,26 +74,7 @@ npx vinjadevix
 <a href="https://linktr.ee/vinjadevix"><img src="https://github-readme-stats.vercel.app/api?username=vinjatovix&count_private=true&show_icons=true&theme=merko" width="100%" /></a>
 <a href="https://linktr.ee/vinjadevix"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinjatovix&langs_count=10&layout=compact&theme=merko" width="100%" /></a>
 
-<p>
-At the moment I am doing a bootcamp on MERN.
-Here you can find some of my learning notes and exercises.
-  <ul>
-    <li>
-      <a href="https://vinjatovix.github.io/jsb07co_css_homework/">CSS exercises  </a>
-    </li>
-    <li>
-      <a href="https://vinjatovix.github.io/js-own_notes/">JS notes on Spanish</a>
-    </li>
-    <li>
-      <a href="https://vinjatovix.github.io/jsb07co_js_homework/index.html">JS exercises</a>
-    </li>
-    <li>
-      <a href="https://github.com/vinjatovix/node-own_notes">Node notes</a>
-    </li>
-  </ul>
-</p>
 
-W1P43V3R
 
 <p href="https://github.com/arturssmirnovs/github-profile-views-counter" align="center"><img src="https://gpvc.arturio.dev/vinjatovix"></p>
 
