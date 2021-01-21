@@ -108,7 +108,7 @@ W1P43V3R
           <img
             style="border-radius: 50%;"
             align="center"
-            src="https://avatars1.githubusercontent.com/u/66441434?u=e6e52db6d2e680d45102aa82a6e8c8c4d459c6f1&v=4"
+            src="https://avatars.githubusercontent.com/u/66441434?u=e6e52db6d2e680d45102aa82a6e8c8c4d459c6f1&v=4"
             width="100"
             height="100"
           />
@@ -124,7 +124,7 @@ W1P43V3R
           <img
             style="border-radius: 50%;"
             align="center"
-            src="https://avatars2.githubusercontent.com/u/44493834?u=dab263b71e6d6e797cbd1c34038ea8d942ec6798&v=4"
+            src="https://avatars.githubusercontent.com/u/44493834?u=dab263b71e6d6e797cbd1c34038ea8d942ec6798&v=4"
             width="100"
             height="100"
           />
@@ -140,7 +140,7 @@ W1P43V3R
           <img
             style="border-radius: 50%;"
             align="center"
-            src="https://avatars0.githubusercontent.com/u/71942467?u=bfa2ede24462af3d98b724c3526e4b6e7156d118&v=4"
+            src="https://avatars.githubusercontent.com/u/71942467?u=bfa2ede24462af3d98b724c3526e4b6e7156d118&v=4"
             width="100"
             height="100"
           />
@@ -156,7 +156,7 @@ W1P43V3R
           <img
             style="border-radius: 50%;"
             align="center"
-            src="https://avatars2.githubusercontent.com/u/3125580?u=c2e74a0463a0902e48feab5c1859f7af2b849b5e&v=4"
+            src="https://avatars.githubusercontent.com/u/3125580?u=c2e74a0463a0902e48feab5c1859f7af2b849b5e&v=4"
             width="100"
             height="100"
           />
