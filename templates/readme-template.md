@@ -24,19 +24,23 @@ npx vinjadevix
 At the moment I am doing a bootcamp on MERN.
 Here you can find some of my learning notes and exercises.
   <ul>
-    <li>
+    <li>MySQL, node, express, React:
       <a href="https://github.com/vinjatovix/booking-flights-app">Booking flights app</a>
     </li>
-    <li>
+    <li>HTML, CSS:
+      <a href="https://vinjatovix.github.io/hab_zoe_hw2/">Basic Homework</a>
+    </li>
+    <li>CSS:
       <a href="https://vinjatovix.github.io/jsb07co_css_homework/">CSS exercises  </a>
     </li>
-    <li>
+    <li>Class notes:
       <a href="https://vinjatovix.github.io/js-own_notes/">JS notes on Spanish</a>
     </li>
     <li>
+      JS basic homework:
       <a href="https://vinjatovix.github.io/jsb07co_js_homework/index.html">JS exercises</a>
     </li>
-    <li>
+    <li>Class notes:
       <a href="https://github.com/vinjatovix/node-own_notes">Node notes</a>
     </li>
   </ul>
