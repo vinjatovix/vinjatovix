@@ -25,23 +25,26 @@ At the moment I am doing a bootcamp on MERN.
 Here you can find some of my learning notes and exercises.
   <ul>
     <li>MySQL, node, express, React:
-      <a href="https://github.com/vinjatovix/booking-flights-app">Booking flights app</a>
+      <a href="https://github.com/vinjatovix/booking-flights-app">Booking flights app Repository</a>
+    </li>
+    <li> Simple React App:
+      <a href="https://vinjatovix.github.io/portfolio/">I Ching deploy</a>
     </li>
     <li>HTML, CSS:
-      <a href="https://vinjatovix.github.io/hab_zoe_hw2/">Basic Homework</a>
+      <a href="https://vinjatovix.github.io/hab_zoe_hw2/">Basic Homework deploy</a>
     </li>
     <li>CSS:
-      <a href="https://vinjatovix.github.io/jsb07co_css_homework/">CSS exercises  </a>
+      <a href="https://vinjatovix.github.io/jsb07co_css_homework/">CSS exercises deploy</a>
     </li>
     <li>Class notes:
-      <a href="https://vinjatovix.github.io/js-own_notes/">JS notes on Spanish</a>
+      <a href="https://vinjatovix.github.io/js-own_notes/">JS notes on Spanish deploy</a>
     </li>
     <li>
       JS basic homework:
-      <a href="https://vinjatovix.github.io/jsb07co_js_homework/index.html">JS exercises</a>
+      <a href="https://vinjatovix.github.io/jsb07co_js_homework/index.html">JS exercises deploy</a>
     </li>
     <li>Class notes:
-      <a href="https://github.com/vinjatovix/node-own_notes">Node notes</a>
+      <a href="https://github.com/vinjatovix/node-own_notes">Node notes deploy</a>
     </li>
   </ul>
 </p>
