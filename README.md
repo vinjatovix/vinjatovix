@@ -171,7 +171,9 @@ W1P43V3R
         <p>
           <a href="https://github.com/davorpa">David Ordás</a> starred <a href="https://github.com/vinjatovix/booking-flights-app">booking-flights-app             </a>
         </p>
-        <p>User Bio: ¯\\_(ツ)_/¯</p>
+        <p>User Bio: ¯\\_(ツ)_/¯
+
+Full Stack developer | Java/JEE & Spring & JPA & Hibernate | JavaScript | Node | Python | Clean Code | HTML5 & CSS3 | SVN & Git  | Agile & SCRUM</p>
     </li>
     <hr>
     
