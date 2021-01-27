@@ -86,6 +86,79 @@ W1P43V3R
 <p href="https://github.com/arturssmirnovs/github-profile-views-counter" align="center"><img src="https://gpvc.arturio.dev/vinjatovix"></p>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-40-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 169 Contributions in the Year 2021
+ > 
+> 📦 152.3 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 50 Public Repositories 
+ > 
+> 🔑 21 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    69 commits     ██████░░░░░░░░░░░░░░░░░░░   26.24% 
+🌆 Daytime    74 commits     ███████░░░░░░░░░░░░░░░░░░   28.14% 
+🌃 Evening    75 commits     ███████░░░░░░░░░░░░░░░░░░   28.52% 
+🌙 Night      45 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.11%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.18% 
+Tuesday      37 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.07% 
+Wednesday    116 commits    ███████████░░░░░░░░░░░░░░   44.11% 
+Thursday     32 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.17% 
+Friday       9 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.42% 
+Saturday     30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.41% 
+Sunday       28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.65%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Madrid
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               20 repos            ████████████░░░░░░░░░░░░░   47.62% 
+HTML                     12 repos            ███████░░░░░░░░░░░░░░░░░░   28.57% 
+Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
+CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
+Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.76%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/vinjatovix/vinjatovix/main/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vinjatovix&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=vinjatovix&redirect=true)
