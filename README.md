@@ -131,7 +131,7 @@ W1P43V3R
           <img
             style="border-radius: 50%;"
             align="center"
-            src="https://avatars.githubusercontent.com/u/44493834?u=dab263b71e6d6e797cbd1c34038ea8d942ec6798&v=4"
+            src="https://avatars.githubusercontent.com/u/44493834?u=5ce5cc61ee5d4a2e99d04a41b5047ce251dadbf6&v=4"
             width="100"
             height="100"
           />
