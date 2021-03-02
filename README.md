@@ -34,17 +34,7 @@ Here you can find some of my learning notes and exercises.
       <a href="https://vinjatovix.github.io/simplest_sample/">Simplest html & Css sample</a>
     </li>
     <li>CSS:
-      <a href="https://vinjatovix.github.io/jsb07co_css_homework/">CSS exercises deploy</a>
-    </li>
-    <li>Class notes:
-      <a href="https://vinjatovix.github.io/js-own_notes/">JS notes on Spanish deploy</a>
-    </li>
-    <li>
-      JS basic homework:
-      <a href="https://vinjatovix.github.io/jsb07co_js_homework/index.html">JS exercises deploy</a>
-    </li>
-    <li>Class notes:
-      <a href="https://github.com/vinjatovix/node-own_notes">Node notes deploy</a>
+      <a href="https://vinjatovix.github.io/css_samples/">css samples</a>
     </li>
   </ul>
 </p>
@@ -153,7 +143,7 @@ W1P43V3R
           />
         </a>
         <p>
-          <a href="https://github.com/samurodriguez">Samuel Rodríguez</a> starred <a href="https://github.com/vinjatovix/jsb07co_js_homework">jsb07co_js_homework             </a>
+          <a href="https://github.com/samurodriguez">Samuel Rodríguez</a> starred <a href="https://github.com/vinjatovix/vinjatovix">vinjatovix             </a>
         </p>
         <p>User Bio: This user has no bio... 🙈🙉🙊</p>
     </li>
