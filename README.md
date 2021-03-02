@@ -25,7 +25,7 @@ At the moment I am doing a bootcamp on MERN.
 Here you can find some of my learning notes and exercises.
   <ul>
     <li>MySQL, node, express, React:
-      <a href="https://github.com/vinjatovix/booking-flights-app">Booking flights app Repository</a>
+      <a href="https://github.com/vinjatovix/flight-landers">Booking flights app Repository</a>
     </li>
     <li> Simple React App:
       <a href="https://vinjatovix.github.io/portfolio/">I Ching deploy</a>
