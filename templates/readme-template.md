@@ -31,7 +31,7 @@ Here you can find some of my learning notes and exercises.
       <a href="https://vinjatovix.github.io/portfolio/">I Ching deploy</a>
     </li>
     <li>HTML, CSS:
-      <a href="https://vinjatovix.github.io/hab_zoe_hw2/">Basic Homework deploy</a>
+      <a href="https://vinjatovix.github.io/simplest_sample/">Simplest html & Css sample</a>
     </li>
     <li>CSS:
       <a href="https://vinjatovix.github.io/jsb07co_css_homework/">CSS exercises deploy</a>
