@@ -34,17 +34,7 @@ Here you can find some of my learning notes and exercises.
       <a href="https://vinjatovix.github.io/simplest_sample/">Simplest html & Css sample</a>
     </li>
     <li>CSS:
-      <a href="https://vinjatovix.github.io/jsb07co_css_homework/">CSS exercises deploy</a>
-    </li>
-    <li>Class notes:
-      <a href="https://vinjatovix.github.io/js-own_notes/">JS notes on Spanish deploy</a>
-    </li>
-    <li>
-      JS basic homework:
-      <a href="https://vinjatovix.github.io/jsb07co_js_homework/index.html">JS exercises deploy</a>
-    </li>
-    <li>Class notes:
-      <a href="https://github.com/vinjatovix/node-own_notes">Node notes deploy</a>
+      <a href="https://vinjatovix.github.io/css_samples/">css samples</a>
     </li>
   </ul>
 </p>
