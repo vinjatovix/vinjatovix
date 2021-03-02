@@ -21,8 +21,7 @@ A samurai never breaks his word. Never share your codewars kata solutions in pub
 npx vinjadevix
 ```
 <p>
-At the moment I am doing a bootcamp on MERN.
-Here you can find some of my learning notes and exercises.
+Some code samples:
   <ul>
     <li>MySQL, node, express, React:
       <a href="https://github.com/vinjatovix/flight-landers">Booking flights app Repository</a>
