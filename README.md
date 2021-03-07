@@ -24,7 +24,7 @@ npx vinjadevix
 Some code samples:
   <ul>
     <li>MySQL, node, express, React:
-      <a href="https://github.com/vinjatovix/flight-landers">Booking flights app Repository</a>
+      <a href="https://github.com/vinjatovix/booking-flights-app">Booking flights app Repository</a>
     </li>
     <li> Simple React App:
       <a href="https://vinjatovix.github.io/portfolio/">I Ching deploy</a>
