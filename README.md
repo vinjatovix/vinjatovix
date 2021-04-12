@@ -170,4 +170,77 @@ Full Stack developer | Java/JEE & Spring & JPA & Hibernate | JavaScript | Node |
 </div>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 502 Contributions in the Year 2021
+ > 
+> 📦 191.6 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 23 Public Repositories 
+ > 
+> 🔑 35 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    69 commits     ██████░░░░░░░░░░░░░░░░░░░   26.24% 
+🌆 Daytime    74 commits     ███████░░░░░░░░░░░░░░░░░░   28.14% 
+🌃 Evening    75 commits     ███████░░░░░░░░░░░░░░░░░░   28.52% 
+🌙 Night      45 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.11%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.18% 
+Tuesday      37 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.07% 
+Wednesday    116 commits    ███████████░░░░░░░░░░░░░░   44.11% 
+Thursday     32 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.17% 
+Friday       9 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.42% 
+Saturday     30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.41% 
+Sunday       28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.65%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Madrid
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               24 repos            ████████████░░░░░░░░░░░░░   51.06% 
+HTML                     12 repos            ██████░░░░░░░░░░░░░░░░░░░   25.53% 
+Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.51% 
+CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.38% 
+Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.26%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/vinjatovix/vinjatovix/main/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
