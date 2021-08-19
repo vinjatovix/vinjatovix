@@ -162,7 +162,7 @@ W1P43V3R
         </p>
         <p>User Bio: ¯\\_(ツ)_/¯
 
-Full Stack developer | Java/JEE & Spring & JPA & Hibernate | JavaScript | Node | Python | Clean Code | HTML5 & CSS3 | SVN & Git  | Agile & SCRUM</p>
+Full Stack developer | Java/JEE & Spring & JPA & Hibernate | JavaScript | Node | Python | Go | Clean Code | HTML5 & CSS3 | SVN & Git  | Agile</p>
     </li>
     <hr>
     
