@@ -110,7 +110,7 @@ W1P43V3R
           />
         </a>
         <p>
-          <a href="https://github.com/davorpa">David Ordás</a> starred <a href="https://github.com/vinjatovix/css_samples">css_samples             </a>
+          <a href="https://github.com/davorpa">David Ordás</a> starred <a href="https://github.com/vinjatovix/programillasPython">programillasPython             </a>
         </p>
         <p>User Bio: ¯\\_(ツ)_/¯
 
