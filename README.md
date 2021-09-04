@@ -100,6 +100,24 @@ W1P43V3R
 <div>
   <ul>
       <li>
+        <a href="https://github.com/davorpa">
+          <img
+            style="border-radius: 50%;"
+            align="center"
+            src="https://avatars.githubusercontent.com/u/3125580?u=c2e74a0463a0902e48feab5c1859f7af2b849b5e&v=4"
+            width="100"
+            height="100"
+          />
+        </a>
+        <p>
+          <a href="https://github.com/davorpa">David Ordás</a> starred <a href="https://github.com/vinjatovix/css_samples">css_samples             </a>
+        </p>
+        <p>User Bio: ¯\\_(ツ)_/¯
+
+Full Stack developer | Java/JEE & Spring & JPA & Hibernate | JavaScript | Node | Python | Go | Clean Code | HTML5 & CSS3 | SVN & Git  | Agile</p>
+    </li>
+    <hr>
+    <li>
         <a href="https://github.com/ALIKALANAD">
           <img
             style="border-radius: 50%;"
@@ -161,24 +179,6 @@ W1P43V3R
           <a href="https://github.com/samurodriguez">Samuel Rodríguez</a> starred <a href="https://github.com/vinjatovix/vinjatovix">vinjatovix             </a>
         </p>
         <p>User Bio: This user has no bio... 🙈🙉🙊</p>
-    </li>
-    <hr>
-    <li>
-        <a href="https://github.com/davorpa">
-          <img
-            style="border-radius: 50%;"
-            align="center"
-            src="https://avatars.githubusercontent.com/u/3125580?u=c2e74a0463a0902e48feab5c1859f7af2b849b5e&v=4"
-            width="100"
-            height="100"
-          />
-        </a>
-        <p>
-          <a href="https://github.com/davorpa">David Ordás</a> starred <a href="https://github.com/vinjatovix/booking-flights-app">booking-flights-app             </a>
-        </p>
-        <p>User Bio: ¯\\_(ツ)_/¯
-
-Full Stack developer | Java/JEE & Spring & JPA & Hibernate | JavaScript | Node | Python | Go | Clean Code | HTML5 & CSS3 | SVN & Git  | Agile</p>
     </li>
     <hr>
     
