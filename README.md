@@ -40,6 +40,8 @@ Some code samples:
 
 W1P43V3R
 
+[![wakatime](https://wakatime.com/badge/user/3905cbda-a7a2-45e0-97b7-6294e0380972.svg)](https://wakatime.com/@3905cbda-a7a2-45e0-97b7-6294e0380972)
+
  ## Stickers! ❤️
 
 ![Ubuntu](https://img.shields.io/badge/ubuntu-000000?&style=for-the-badge&logo=ubuntu&logoColor=orange)
