@@ -1,5 +1,5 @@
 # ☯️ Bushini nigonwa nai
-A samurai never breaks his word. Never share your codewars kata solutions in public.
+A samurai never breaks his word.
 
 
 <p align="center">
