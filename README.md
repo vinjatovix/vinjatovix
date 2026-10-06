@@ -15,8 +15,14 @@ A samurai never breaks his word.
 
 #### My name is Vinjatovix Imanub. You need programmers. Prepare to hire.
 ###### "Codess bride" 
-
-<a href="https://vinjatovix.github.io/iching/">I Ching</a>
+<ul>
+  <li>
+    <a href="https://vinjatovix.github.io/iching/">I Ching</a>
+  </li>
+  <li>
+    <a href="https://vinjatovix.github.io/RPSLS/"> Idle Rock Paper Scissors Lizard Spock</a>
+  </li>
+</ul>
 
 W1P43V3R
 
