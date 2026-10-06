@@ -16,30 +16,7 @@ A samurai never breaks his word.
 #### My name is Vinjatovix Imanub. You need programmers. Prepare to hire.
 ###### "Codess bride" 
 
-## Check me on console:
-```
-npx vinjadevix
-```
-<p>
-Some code samples:
-  <ul>
-    <li> Adestramento Actoral FT:
-      <a href="https://aft-back.herokuapp.com/">Dramatic characters creation app</a>
-    </li>  
-    <li>MySQL, node, express, React:
-      <a href="https://github.com/vinjatovix/booking-flights-app">Booking flights app Repository</a>
-    </li>
-    <li> Simple React App:
-      <a href="https://vinjatovix.github.io/portfolio/">I Ching deploy</a>
-    </li>
-    <li>HTML, CSS:
-      <a href="https://vinjatovix.github.io/simplest_sample/">Simplest html & Css sample</a>
-    </li>
-    <li>CSS:
-      <a href="https://vinjatovix.github.io/css_samples/">css samples</a>
-    </li>
-  </ul>
-</p>
+<a href="https://vinjatovix.github.io/iching/">I Ching</a>
 
 W1P43V3R
 
@@ -75,11 +52,6 @@ W1P43V3R
 <a href="https://linktr.ee/vinjadevix"><img src="https://github-readme-stats.vercel.app/api?username=vinjatovix&count_private=true&show_icons=true&theme=merko" width="100%" /></a>
 <a href="https://linktr.ee/vinjadevix"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinjatovix&langs_count=10&layout=compact&theme=merko" width="100%" /></a>
 
-
-
-<p href="https://github.com/arturssmirnovs/github-profile-views-counter" align="center"><img src="https://gpvc.arturio.dev/vinjatovix"></p>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vinjatovix&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=vinjatovix&redirect=true)
 
 
 [linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
